@@ -25,5 +25,6 @@ prediction in this type of tabular data.
 - Run the model
 
 ## Code Repository or DOI
+[![DOI](https://zenodo.org/badge/1204950362.svg)](https://doi.org/10.5281/zenodo.19472029)
 
 
